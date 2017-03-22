@@ -1,4 +1,5 @@
 [![Code Climate](https://codeclimate.com/github/WhalesIL/whales/badges/gpa.svg)](https://codeclimate.com/github/WhalesIL/whales)
+[![Build Status](https://travis-ci.org/WhalesIL/whales.svg?branch=master)](https://travis-ci.org/WhalesIL/whales)
 
 <p align="center">
   <img src="logo.png" height="200px" alt="whales"/>
@@ -21,7 +22,7 @@ Whales is a tool that automatically dockerizes your applications. It works as co
 - [Contributing](#contributing)
 - [Credits](#credits)
 
-## Why?
+## Why?
 
 Dockerizing your legacy apps was never this easy. We present you the Whales ecosystem: A set of tools to automatically dockerize your applications.
 
